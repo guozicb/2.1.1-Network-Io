@@ -16,7 +16,7 @@ https://blog.csdn.net/ych9527/article/details/114324451
 
 课程使用到**TCP\UDP Net Assist**,也需下载
 
-# 二. 代码理解
+### 二. 代码理解
 代码见**networkio.c**,实现一个TCP Server端逻辑
 
 可以用以下指令查看端口信息  
